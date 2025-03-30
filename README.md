@@ -10,7 +10,7 @@ We go through creating 2 different kinds of NFTs.
 <br/>
 <p align="center">
 <img src="./img/happy.svg" width="225" alt="NFT Happy">
-<img src="./imgsad.svg" width="225" alt="NFT Sad">
+<img src="./imgsad.svg" width="225" alt="NFT Frown">
 <img src="./img/st-bernard.png" width="225" alt="NFT St.Bernard">
 </p>
 <br/>
